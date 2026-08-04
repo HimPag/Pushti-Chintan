@@ -31,7 +31,7 @@ This is the third form. Every topic carries the original verse, its plain meanin
 
 **हिन्दी —** न स्कैन, न सूखा अनुवाद। हर ग्रन्थ मूल सिद्धान्तों से समझाया गया है — मूल श्लोक, सरल अर्थ, पूर्ण व्याख्या, पुष्टिमार्गीय दृष्टि, और आज का व्यवहार। नौकरी और परिवार वाले गृहस्थ के लिये, दिन में दस मिनट के हिसाब से।
 
-**Built for the reader who has** — a job · a family · ten minutes a day · often a passport from outside India · no Sanskrit background · no haveli within reach.
+**Built for the reader who has** — a job · a family · ten minutes a day · often a passport from outside India · no Sanskrit background
 
 ---
 
