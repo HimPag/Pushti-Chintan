@@ -1,319 +1,203 @@
 <div align="center">
 
-# Pushti-Chintan · पुष्टि-चिन्तन
+# पुष्टि-चिन्तन · Pushti-Chintan
 
-**A single-file, offline, multilingual reference library of the Sanātana texts — read through the lens of Puṣṭimārga.**
+### Fourteen Sanātana texts. One HTML file. No internet required.
 
-**एक ही HTML फ़ाइल में चौदह ग्रन्थ — पुष्टिमार्गीय दृष्टि से, बिना इंटरनेट के।**
+*चौदह ग्रन्थ · एक फ़ाइल · बिना इंटरनेट*
 
 <br>
 
-![Single file](https://img.shields.io/badge/build-single%20HTML%20file-d4763c?style=flat-square)
+![Single file](https://img.shields.io/badge/build-one%20HTML%20file-d4763c?style=flat-square)
 ![Offline](https://img.shields.io/badge/runtime-100%25%20offline-46b3a6?style=flat-square)
 ![Dependencies](https://img.shields.io/badge/dependencies-zero-6e7681?style=flat-square)
 ![Texts](https://img.shields.io/badge/texts-14-e6a93c?style=flat-square)
-![Languages](https://img.shields.io/badge/languages-हिन्दी%20%7C%20ગુજરાતી%20%7C%20English-dd91a6?style=flat-square)
+![Languages](https://img.shields.io/badge/हिन्दी%20·%20ગુજરાતી%20·%20English-3-dd91a6?style=flat-square)
+
+<br>
+
+> *"जहाँ सब मार्ग बन्द हो जाते हैं, वहाँ भी एक नाम खुला रहता है।"*
+> *Where every road is shut, one Name is still open.*
 
 </div>
 
 ---
 
-## Overview · परिचय
+## Why this exists
 
-### English
+Most śāstra reaches the working householder in one of two broken forms: a scanned PDF he cannot search, or a bare translation that tells him *what* the verse says and nothing about what to do with it on a Tuesday morning in a foreign country.
 
-This repository contains **one self-contained HTML file** that opens fourteen classical Sanātana texts on any device, online or offline, without installation or internet connection.
+This is the third form. Every topic carries the original verse, its plain meaning, the full exposition, **the Puṣṭi reading**, and **what to do about it today**. One file. Opens on a laptop, a phone, a plane.
 
-**What this is:**
-- Not a scan, not a bare translation
-- Every text explained from first principles
-- Original Sanskrit verse + plain-language meaning + full exposition + Puṣṭimārgīya reading + practical application
+**हिन्दी —** न स्कैन, न सूखा अनुवाद। हर ग्रन्थ मूल सिद्धान्तों से समझाया गया है — मूल श्लोक, सरल अर्थ, पूर्ण व्याख्या, पुष्टिमार्गीय दृष्टि, और आज का व्यवहार। नौकरी और परिवार वाले गृहस्थ के लिये, दिन में दस मिनट के हिसाब से।
 
-**Who this is for:**
-- Working householder: has a job, family, responsibilities
-- Often lives outside India or without easy temple access
-- Wants direct access to śāstra without Sanskrit background
-- Reads in short daily sittings (10 minutes a day)
-
-### हिन्दी
-
-इस repository में **एक ही स्वयंपूर्ण HTML फ़ाइल** है जो किसी भी ब्राउज़र में, किसी भी डिवाइस पर, इंटरनेट के साथ या बिना, चौदह क्लासिकल ग्रन्थ खोलती है।
-
-**यह क्या है:**
-- न स्कैन, न सूखा अनुवाद
-- हर ग्रन्थ मूल सिद्धान्तों से समझाया गया है
-- मूल संस्कृत श्लोक + सरल अर्थ + पूर्ण व्याख्या + पुष्टिमार्गीय दृष्टि + आज का व्यवहार
-
-**किसके लिये:**
-- कार्यरत गृहस्थ: नौकरी, परिवार, जिम्मेदारियाँ हैं
-- प्रायः भारत के बाहर या हवेली की दूरी में रहता है
-- शास्त्र चाहता है पर संस्कृत और मंदिर की अवश्यकता नहीं है
-- रोज़ थोड़ा-थोड़ा (दिन में दस मिनट) पढ़ता है
+**Built for the reader who has** — a job · a family · ten minutes a day · often a passport from outside India · no Sanskrit background · no haveli within reach.
 
 ---
 
-## Contents · सम्मिलित ग्रन्थ (14 Texts)
+## Where to start
 
-### Primary Philosophical Texts · प्राथमिक दार्शनिक ग्रन्थ
+Fourteen texts is a lot of doors. Pick by what brought you here, not by the table of contents.
 
-| # | Text · ग्रन्थ | Availability | Content |
+| If you are… | Open | Then |
+|:--|:--|:--|
+| New to Puṣṭimārga entirely | **षोडश ग्रन्थ** | श्रीमद्भागवत |
+| Reading ten minutes a day, daily | **श्रीमद्भागवत** — one verse per sitting | Repeat the same skandha |
+| Standing in front of a hard decision | **श्रीमद्भगवद्गीता** — arranged by topic, not only by chapter | मानव-धर्म |
+| Marking a life event — birth, marriage, death | **षोडश संस्कार** · **विवाह संस्कार** | — |
+| Asking *why is this happening to me* | **कर्म विज्ञान** | ज्योतिष |
+| Fed by stories more than by doctrine | **८४ वार्ता** · **२५२ वार्ता** | षोडश ग्रन्थ |
+| Wanting the map of the whole corpus first | **वेद** · **पुराण · उपनिषद** | Anywhere |
+
+---
+
+## The fourteen · सम्मिलित ग्रन्थ
+
+**Foundation · दार्शनिक आधार**
+
+| # | Text | Lang | Inside |
 |:-:|:--|:--|:--|
-| **1** | **श्रीमद्भगवद्गीता** · Bhagavad Gītā | हिन्दी · English | • All 18 chapters arranged by topic and chapter<br>• Essence (सार), yoga-darśana, Puṣṭi reading<br>• Complete verse-by-verse exposition |
-| **2** | **श्रीमद्भागवत महापुराण** · Bhāgavata Mahāpurāṇa | हिन्दी · ગુજરાતી · English | • Twelve skandhas, 335 chapters, 63 key verses<br>• Each verse: meaning + exposition + Puṣṭi reading<br>• Complete philosophical core with daily application |
-| **3** | **षोडश ग्रन्थ** · Sixteen Granthas of Śrī Vallabhāchārya | हिन्दी · ગુજરાતી · English | • Sixteen short works of the Puṣṭimārga founder<br>• Original verses with practical Vaiṣṇava reading<br>• Foundation texts for the entire philosophy |
+| 1 | **श्रीमद्भगवद्गीता** · Bhagavad Gītā | हि · En | All 18 chapters, arranged by topic *and* by chapter · सार, yoga-darśana, Puṣṭi reading · verse-by-verse |
+| 2 | **श्रीमद्भागवत महापुराण** · Bhāgavata | हि · ગુ · En | 12 skandhas, 335 chapters, 63 key verses · each with meaning, exposition, Puṣṭi reading, daily application |
+| 3 | **षोडश ग्रन्थ** · Sixteen Granthas | हि · ગુ · En | Śrī Vallabhāchārya's sixteen short works — the founding texts of the entire path |
 
-### Narrative & Historical Texts · आख्यान और ऐतिहासिक ग्रन्थ
+**Narrative · आख्यान**
 
-| **4** | **रामायण** · Rāmāyaṇa | हिन्दी · ગુજરાતી · English | • Vālmīki, seven kāṇḍas (books)<br>• The epic of maryādā (righteousness) read as education in surrender<br>• Dharma, devotion, and the path of duty |
-| **5** | **त्रिपुरारहस्य** · Tripurā Rahasya | हिन्दी · ગુજરાતી · English | • Jñāna-khaṇḍa: Dattātreya–Paraśurāma dialogue<br>• Deep teaching on cit-śakti (consciousness principle)<br>• Non-dual wisdom within the Vaiṣṇava framework |
+| # | Text | Lang | Inside |
+|:-:|:--|:--|:--|
+| 4 | **रामायण** · Rāmāyaṇa | हि · ગુ · En | Vālmīki, seven kāṇḍas · maryādā read as an education in surrender |
+| 5 | **त्रिपुरारहस्य** · Tripurā Rahasya | हि · ગુ · En | Jñāna-khaṇḍa — the Dattātreya–Paraśurāma dialogue on cit-śakti |
+| 12 | **८४ वैष्णव वार्ता** | हि · ગુ · En | The eighty-four accepted sevaks — who they were, and the principle each life carries |
+| 13 | **२५२ वैष्णव वार्ता** · of Śrī Gusāñjī | हि · ગુ · En | Two hundred fifty-two vārtās in sequence — the lineage as lived, not theorised |
 
-### Ritual & Practice Texts · संस्कार और साधना ग्रन्थ
+**Practice · संस्कार और साधना**
 
-| **6** | **षोडश संस्कार** · Sixteen Saṃskāras | हिन्दी · ગુજરાતી · English | • Birth to death: sixteen rites across the lifespan<br>• Mantras and spiritual intent for each saṃskāra<br>• गर्भ से चिता तक (womb to pyre) |
-| **7** | **विवाह संस्कार** · Marriage Rite | हिन्दी · ગુજરાતી · English | • Four sources, three traditions<br>• Marriage vows, mantras, and household principles<br>• Detailed breakdown of traditional wedding ceremony |
+| # | Text | Lang | Inside |
+|:-:|:--|:--|:--|
+| 6 | **षोडश संस्कार** · Sixteen Saṃskāras | हि · ગુ · En | गर्भ से चिता तक — sixteen rites, their mantras, and the intent behind each |
+| 7 | **विवाह संस्कार** · Marriage Rite | हि · ગુ · En | Four sources, three traditions · vows, mantras, and the household principles they establish |
+| 10 | **कर्म विज्ञान** · Science of Karma | हि · ગુ · En | सञ्चित · प्रारब्ध · क्रियमाण — how karma binds, and where Puṣṭi cuts the knot |
+| 11 | **मानव-धर्म** · Universal Dharma | हि · En | The ten सामान्य धर्म binding on every person, irrespective of varṇa or āśrama |
 
-### Knowledge Texts · ज्ञान ग्रन्थ
+**Reference · ज्ञान-कोश**
 
-| **8** | **वेद** · The Vedic System | हिन्दी · ગુજરાતી · English | • Four Vedas, six Vedāṅgas, six Darśanas<br>• Textual layers, śākhās (recensions), gotras (lineages)<br>• The smṛti corpus and classical knowledge structure |
-| **9** | **पुराण · उपनिषद** · Purāṇas & Upaniṣads | हिन्दी · ગુજરાતી · English | • Eighteen Mahāpurāṇas overview<br>• Ten principal Upaniṣads<br>• Yuga cycle and cosmological framework |
-| **10** | **कर्म विज्ञान** · Science of Karma | हिन्दी · ગુજરાતી · English | • Three types: sañcita, prārabdha, kriyamāṇa<br>• How karma binds the individual soul<br>• Pathways to release through Puṣṭi |
-| **11** | **मानव-धर्म** · Universal Human Dharma | हिन्दी · English | • Ten universal duties (सामान्य धर्म)<br>• Binding on every person regardless of caste or stage of life<br>• Foundation principles of ethical living |
+| # | Text | Lang | Inside |
+|:-:|:--|:--|:--|
+| 8 | **वेद** · The Vedic System | हि · ગુ · En | Four Vedas, six Vedāṅgas, six Darśanas · textual layers, śākhās, gotras, the smṛti corpus |
+| 9 | **पुराण · उपनिषद** | हि · ગુ · En | Eighteen Mahāpurāṇas, ten principal Upaniṣads, the yuga cycle |
+| 14 | **ज्योतिष** · Jyotiṣa | हि · En | **Vedic Parāśarī (sidereal) only — never Western/tropical.** A tool for self-knowledge and reading the nature of time |
 
-### Specialized Texts · विशेषज्ञ ग्रन्थ
-
-| **12** | **८४ वैष्णव वार्ता** · 84 Vārtās | हिन्दी · ગુજરાતી · English | • Eighty-four accepted sevaks (devotees) of Puṣṭimārga<br>• Who they were, their stories, spiritual principles<br>• Application to contemporary Vaiṣṇava life |
-| **13** | **२५२ वैष्णव वार्ता** · 252 Vārtās of Śrī Gusāñjī | हिन्दी · ગુજરાતી · English | • Two hundred fifty-two vārtās (narratives) in sequence<br>• Stories of the Puṣṭimārga community and lineage<br>• Living examples of devotion and grace |
-| **14** | **ज्योतिष** · Jyotiṣa (Vedic Astrology) | हिन्दी · English | • Vedic Parāśarī (sidereal) system exclusively<br>• Never Western/tropical astrology<br>• Tool for self-knowledge and understanding time's nature |
-
-**Language Availability Summary:**
-- 11 texts: हिन्दी · ગુજરાતી · English (all three)
-- 3 texts: हिन्दी · English (bilingual)
-- Language switching is **instant and automatic** — no page reload
-
----
-
-## Method of Exposition · व्याख्या-पद्धति
-
-Every topic in the collection follows **one consistent five-step structure:**
-
-### The Five Steps · पाँच चरण
-
-| Step | Content | Purpose |
-|:--:|:--|:--|
-| **1** | Original Sanskrit verse in Devanāgarī + IAST transliteration | Authenticity and precision |
-| **2** | Plain-language meaning (no technical jargon assumed) | Immediate comprehension |
-| **3** | Full exposition: context, speaker, audience, relevance | Understanding within tradition |
-| **4** | **Puṣṭi reading**: Does this belong to *maryādā* (effort-based) or *puṣṭi* (grace-based)? | Correct philosophical lens |
-| **5** | **Practical application**: 3–5 actionable lines for today | Living the teaching now |
-
-**Key distinction:**
-- Steps 4 and 5 are **omitted from most printed editions**
-- This collection includes them because they are essential for a householder living in the Kali age
-- No motivational padding; where the tradition is strict, we say so plainly
-- Where a passage is commonly misread, the error is named and corrected
+*11 texts in all three languages · 3 bilingual · language switches in place, no reload.*
 
 ---
 
-## The Puṣṭimārga Lens · पुष्टिमार्गीय दृष्टि
+## How every topic is built
 
-> *"Where every road is shut, one Name is still open."*  
-> *"जहाँ सब मार्ग बन्द हो जाते हैं, वहाँ भी एक नाम खुला रहता है।"*
+One structure, held across all fourteen texts. Nothing is summarised without being grounded first.
 
-### The Philosophical Foundation
+| | Step | Why it is there |
+|:-:|:--|:--|
+| **1** | Original verse — Devanāgarī + IAST | Precision before interpretation |
+| **2** | Plain meaning, no assumed jargon | Comprehension without a Sanskrit degree |
+| **3** | Full exposition — context, speaker, audience, relevance | The verse inside its tradition, not floating free |
+| **4** | **Puṣṭi reading** — *maryādā* (effort) or *puṣṭi* (grace)? | The single distinction that decides how you apply it |
+| **5** | **Practical application** — 3–5 lines you can act on today | Reading that does not become practice is entertainment |
 
-**Śrī Vallabhāchārya** (1479–1531) established **Puṣṭimārga** — the "path of abundance" — as one of the six major schools of Hindu philosophy. He treated the **Bhāgavata Purāṇa** as the **fourth and deciding authority** after:
-1. Veda (shruti)
-2. Brahma-sūtra (logic)
-3. Bhagavad Gītā (synthesis)
-4. **Bhāgavata Purāṇa** (heart of all scripture)
-
-### Three Core Principles · तीन मूल सिद्धान्त
-
-**Principle 1: Goal is Sevā (Service), Not Liberation**
-- The object is not to escape the world (mokṣa)
-- The object is to serve Śrī Kṛṣṇa eternally in intimate devotion
-- Mukti (liberation) is not requested; grace (puṣṭi) is offered
-- The householder serves with full engagement in life and duty
-
-**Principle 2: Entry is Surrender, Not Austerity**
-- The path does not begin with renunciation or penance
-- The path begins with **brahma-sambandha** — self-offering to the Lord
-- Grace comes at the *beginning* of the path, not at its end
-- A simple act of surrender opens the door; Kṛṣṇa accepts the sincere heart
-
-**Principle 3: Qualification is Acceptance, Not Birth**
-- No one is barred by caste, education, ritual purity, or past actions
-- Qualification comes by being **accepted** by the Lord (anukūla)
-- Whoever has been accepted is thereby qualified for the highest service
-- The only criterion: willingness to be offered
-
-### How This Shapes the Collection
-
-This collection is **organized as a working handbook for the Kali-age Vaiṣṇava**:
-- ✓ Has employment and household duties
-- ✓ Manages family and social responsibilities
-- ✓ Often holds a passport from outside India
-- ✓ Seeks authentic practice, not escape
-- ✓ Wants to serve Kṛṣṇa within the life he already leads
-
-**Consequence:** Verses are selected, ordered, and explained to support this specific life. The Bhāgavata is read not as mystical poetry but as **practical instruction for the householder's daily surrender.**
+**Steps 4 and 5 are absent from most printed editions.** They are the reason this collection exists. Where the tradition is strict, that is said plainly — no motivational padding. Where a passage is commonly misread, the misreading is named and corrected.
 
 ---
 
-## Quick Start · शुरू करना
+## The lens · पुष्टिमार्गीय दृष्टि
 
-### Installation & Setup
+**Śrī Vallabhāchārya** (1479–1531) established Puṣṭimārga — the path of grace — treating the **Bhāgavata Purāṇa** as the fourth and deciding authority: Veda (śruti) → Brahma-sūtra (logic) → Gītā (synthesis) → **Bhāgavata (the heart)**.
 
-**Step 1: Download**
-- Clone the repository or download the `.html` file directly
-- No installation, no dependencies, no build step
+Three principles shape every page here:
 
-**Step 2: Open**
-- Double-click the `.html` file, or
-- Right-click → Open with → Your browser
-- File works completely offline after download
+**१ · The goal is sevā, not escape.** Not mokṣa but eternal, intimate service. Mukti is never requested; puṣṭi is offered. The householder serves *inside* his duties, not by walking out on them.
 
-**Step 3: Navigate**
-- Select a **text** from the top navigation bar
-- Select a **language** from the भाषा · Language row within each text
-- Use the **left sidebar** (pinned on desktop, collapsible on mobile) to move between chapters/sections
-- Use the **chip filters** below the language selector to narrow topics within a section
+**२ · Entry is surrender, not austerity.** The path opens at **brahma-sambandha** — self-offering. Grace arrives at the beginning of the road, not as a prize at the end.
 
-### Reading Tips · पढ़ने की सलाह
+**३ · Qualification is acceptance, not birth.** Caste, education, ritual purity, past karma — none of these bar the door. The one criterion is willingness to be offered.
 
-| Tip | Reason |
+**Consequence for this collection:** verses are selected, ordered and explained for a specific life — employed, householder, often diaspora, seeking authentic practice rather than exit. The Bhāgavata is read here as working instruction for daily surrender, not as mystical poetry.
+
+---
+
+## Run it
+
+```
+Pushti-Chintan/
+└── pushti-chintan.html      ← the entire library, ~2–3 MB
+```
+
+1. **Download** the `.html` file (or clone the repo). No install, no build, no npm.
+2. **Open** it — double-click, or right-click → Open with → any browser.
+3. **Navigate** — text from the top bar · language from the भाषा · Language row · chapters from the left sidebar · chip filters to narrow within a section.
+
+Works fully offline from the first open onward. Airplane mode included.
+
+**Reading discipline that actually works:**
+
+- Ten to fifteen minutes. One chapter. Daily beats a long weekend session.
+- Return to the same text. Depth comes from repetition, not coverage.
+- Skip what does not land. It will meet you later.
+- Always check step 4 before applying anything — effort and grace are not interchangeable.
+- Act on one line from step 5 the same day.
+
+---
+
+## Under the hood
+
+| | |
 |:--|:--|
-| **Read in short sittings** (10–15 min) | One chapter a day is more effective than a long weekend session |
-| **Return to the same text** regularly | Depth comes from repetition, not breadth |
-| **Skip what doesn't resonate** | Come back to it later; the text will meet you when you're ready |
-| **Learn pronunciation from a guru** | Take meaning here; learn recitation from a living teacher |
-| **Use the Puṣṭi reading** | Always check Step 4—it clarifies whether effort or grace applies |
-| **Apply Step 5 immediately** | Don't just read; act on one actionable line each day |
-
-### Screen & Theme Support
-
-| Feature | Details |
-|:--|:--|
-| **Desktop (≥1080 px)** | Fixed left sidebar for instant section navigation |
-| **Tablet / Phone (<1080 px)** | Left sidebar converts to horizontal chips automatically |
-| **Night theme** | Default; dark background, light text |
-| **Parchment-light theme** | Available; warm background, traditional feel |
-| **Dark mode** | Respects system preference on modern browsers |
-
----
-
-## Technical Overview · तकनीकी विवरण
-
-### Architecture
-
-| Aspect | Specification |
-|:--|:--|
-| **Distribution** | One self-contained `.html` file (no separate assets) |
-| **Build process** | None — no npm, no bundler, no server required |
-| **Dependencies** | Zero external libraries |
-| **Network calls** | None at runtime; no analytics, trackers, or telemetry |
-| **Offline capability** | 100% functional after download; works on airplane mode |
-| **Language switching** | Runtime, in-place; no page reload |
-| **Responsive design** | Pinned sidebar at ≥1080 px; auto-collapse below |
-| **Theme system** | CSS variables; supports night and parchment-light |
+| **Distribution** | One self-contained `.html` — no separate assets |
+| **Build** | None. No bundler, no server, no dependencies |
+| **Network at runtime** | Zero calls. No analytics, no trackers, no telemetry |
+| **Language switch** | Runtime, in place, milliseconds |
+| **Layout** | Pinned sidebar ≥ 1080 px · auto-collapses to horizontal chips below |
+| **Themes** | Night (default) · parchment-light · respects system dark mode |
+| **Search** | Instant full-text within a text |
 | **Accessibility** | Semantic HTML, keyboard navigation, screen-reader friendly |
-| **File size** | ~2–3 MB (all 14 texts embedded) |
-
-### Performance
-
-- **Load time**: <2 seconds (even on slow connections; cached after first download)
-- **Search**: Instant full-text search within texts
-- **Language switch**: Milliseconds (no reload)
-- **Rendering**: Optimized for smooth scrolling
+| **Size / load** | ~2–3 MB · under 2 s, cached thereafter |
 
 ---
 
-## Deployment · प्रकाशन
+## Publish or share
 
-### Option 1: GitHub Pages (Recommended)
+**GitHub Pages** — Settings → Pages → Source: `main`, `/root` → Save.
+Live at `https://himpag.github.io/Pushti-Chintan/pushti-chintan.html`
+*(rename the file to `index.html` to serve it from the repo root)*
 
-1. Go to **Settings** → **Pages**
-2. Select **Source**: `main` branch, `/root` directory
-3. Click **Save**
-4. Your file is now live at: `https://yourusername.github.io/Pushti-Chintan/pushti-chintan.html`
-
-*(Or rename the file to `index.html` to serve from the repository root)*
-
-### Option 2: Self-hosted or Local
-
-- Upload the `.html` file to any web server
-- Or keep it local; it works offline without any server
-
-### Option 3: Distribution
-
-- Share the `.html` file directly via email, WhatsApp, Telegram, or cloud storage
-- No installation needed by recipients; they just open it in any browser
+**Anywhere else** — upload the file to any web server, or don't. It runs from a folder, a USB stick, an email attachment, WhatsApp, Telegram, or Drive. Recipients install nothing.
 
 ---
 
-## Source Texts & Attribution · पाठ-स्रोत
+## Sources, and what this is not
 
-### English
+Sanskrit verses are drawn from original public-domain classical texts. **All explanatory material — meaning, exposition, Puṣṭi reading, practical application — is written independently in original wording.** No existing translation is reproduced verbatim.
 
-**Sanskrit verses** are taken from original, public-domain classical texts. All explanatory material (meaning, exposition, Puṣṭi reading, practical application) is written independently in original wording — no translation is reproduced verbatim.
+This is a study aid. It does not replace a **guru**, a **haveli**, or **satsang**.
 
-**Important:**
-- ✓ Learn verse **pronunciation** from your own guru or a family Vaiṣṇava
-- ✓ Take **meaning and understanding** from this collection
-- ✓ Learn **recitation and practice** from a living teacher
-- ✓ Join **satsang** (community of seekers) for direct guidance
+- Take **meaning and understanding** from here.
+- Learn **pronunciation and recitation** from your own guru or kula-vaiṣṇava.
+- Learn **practice** from a living teacher, in company.
 
-**This is a study aid.** It does not replace:
-- A guru (spiritual teacher)
-- A haveli (temple community)
-- Satsang (spiritual fellowship)
-
-### हिन्दी
-
-**संस्कृत श्लोक** मूल, सार्वजनिक पाठ से लिये गये हैं। समस्त व्याख्यात्मक सामग्री (अर्थ, व्याख्या, पुष्टि पाठन, व्यावहारिक सार) स्वतंत्र रूप से मूल शब्दावली में रची गई है।
-
-**महत्वपूर्ण:**
-- ✓ श्लोकों का **उच्चारण** अपने गुरु या कुल-वैष्णव से सीखिये
-- ✓ **अर्थ और बोध** इस संग्रह से लीजिये
-- ✓ **पाठ और साधना** किसी जीवंत गुरु से सीखिये
-- ✓ **सत्संग** (साधकों की मंडली) में शामिल होइये
-
-**यह अध्ययन-सामग्री है।** यह किसी की जगह नहीं ले सकती:
-- गुरु (आध्यात्मिक शिक्षक) की
-- हवेली (मंदिर समुदाय) की
-- सत्संग (आध्यात्मिक संगति) की
-
----
-
-## Acknowledgments · आभार
-
-This collection exists by **the grace of Śrī Kṛṣṇa and the tradition of Puṣṭimārga.**
-
-Special gratitude to:
-- The founding texts of Śrī Vallabhāchārya and his lineage
-- The scholars and sevaks who have preserved this knowledge
-- Every reader who brings these teachings into lived practice
+**हिन्दी —** अर्थ और बोध इस संग्रह से लीजिये; उच्चारण और पाठ अपने गुरु से सीखिये; साधना सत्संग में पकती है। यह अध्ययन-सामग्री है — गुरु, हवेली और सत्संग की जगह नहीं ले सकती।
 
 ---
 
 <div align="center">
 
-### पठन-मंत्र · Reading Dedication
+### आभार
+
+This collection exists by the grace of **Śrī Kṛṣṇa** and the tradition of **Puṣṭimārga** —
+the founding texts of Śrī Vallabhāchārya and his lineage, the sevaks who preserved them,
+and every reader who takes them out of the file and into a life.
+
+<br>
 
 **॥ सर्वं समर्पयामि · श्रीकृष्णार्पणमस्तु ॥**
 
 *Everything is offered · Let all be for Śrī Kṛṣṇa*
-
----
-
-**Prepared for the Vaiṣṇava who has:**
-- A job
-- A family
-- Ten minutes a day
-
-**उस वैष्णव के लिये जिसके पास है:**
-- नौकरी
-- परिवार
-- दिन में दस मिनट
 
 </div>
